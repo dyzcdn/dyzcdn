@@ -1,4 +1,4 @@
-[Muhammad Herdy Iskandar](https://raw.githubusercontent.com/dyzcdn/dyzcdn.github.io/master/favicon.png)
+<img src="https://raw.githubusercontent.com/dyzcdn/dyzcdn.github.io/master/favicon.png" alt="Muhammad Herdy Iskandar">
 
 # 👋 Hi! Welcome, I'm Herdy Iskandar
 A junior developer, designer, and producer, from Indonesia.
