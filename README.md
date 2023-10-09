@@ -4,7 +4,7 @@
 A junior developer, designer, and producer, from Indonesia.
 [**My Website**](https://dyzulk.me)
 
-![](https://github-readme-stats.vercel.app/api?username=dyzulk&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=14B8A6&title_color=FFFFFF&text_color=FFFFFF&icon_color=134E4A)
+![](https://github-readme-stats.vercel.app/api?username=dyzcdn&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&bg_color=14B8A6&title_color=FFFFFF&text_color=FFFFFF&icon_color=134E4A)
 
 ---
 ## 💌 Keep In Touch With Me
